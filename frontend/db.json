@@ -1,0 +1,98 @@
+{
+    "addresses": [
+        {
+            "id": 1,
+            "address": "#2097, Triveni Main Rd, Gokula 1st Stage, Nanjappa Reddy Colony, Yeswanthpur, Bengaluru, Karnataka 560054"
+        },
+        {
+            "id": 2,
+            "address": "#2097, Triveni Main Rd, Gokula 1st Stage, Nanjappa Reddy Colony, Yeswanthpur, Bengaluru, Karnataka 560054"
+        }
+    ],
+    "business": [
+        {
+            "id": 1,
+            "name": "Zemoso technologies pvt ltd",
+            "regNo": "2020ZEN5367GJ",
+            "regAddr": "#2097, Triveni Main Rd, Gokula 1st Stage, Nanjappa Reddy Colony, Yeswanthpur, Bengaluru, Karnataka 560054"
+        },
+        {
+            "id": 2,
+            "name": "ZedX Infotech pvt ltd",
+            "regNo": "2020ZEN5367GJ",
+            "regAddr": "#2097, Triveni Main Rd, Gokula 1st Stage"
+        }
+    ],
+    "transaction": [
+        {
+            "id": 1,
+            "amount": 200,
+            "convertedAmount": 114.68,
+            "fromCountry": "GBP",
+            "toCountry": "EUR",
+            "recipient": {
+                "email": "mario.gabriel@gmail.com",
+                "account": "123456885865",
+                "firstName": "Mario",
+                "lastName": "Gabriel",
+                "ifsc": "ABFJ12929G",
+                "accountType": "Checking",
+                "status": "sending"
+            }
+        },
+        {
+            "id": 2,
+            "amount": 340,
+            "convertedAmount": 12214.68,
+            "fromCountry": "EUR",
+            "toCountry": "USD",
+            "recipient": {
+                "email": "mario.gabriel@gmail.com",
+                "account": "123456885865",
+                "firstName": "James",
+                "lastName": "",
+                "ifsc": "ABFJ12929G",
+                "accountType": "Checking",
+                "status": "Sending"
+            }
+        },
+        {
+            "id": 3,
+            "amount": 114,
+            "convertedAmount": 100,
+            "fromCountry": "EUR",
+            "toCountry": "GBP",
+            "recipient": {
+                "email": "mario.gabriel@gmail.com",
+                "account": "123456885865",
+                "firstName": "John",
+                "lastName": "Mad",
+                "ifsc": "ABFJ12929G",
+                "accountType": "Checking",
+                "status": "Sending"
+            }
+        },
+        {
+            "id": 4,
+            "amount": 100,
+            "convertedAmount": 662.8,
+            "fromCountry": "USD",
+            "toCountry": "GBP",
+            "recipient": {
+                "email": "mario.gabriel@gmail.com",
+                "account": "123456885865",
+                "firstName": "Angelina",
+                "lastName": "ad",
+                "ifsc": "ABFJ12929G",
+                "accountType": "Checking",
+                "status": "Sending"
+            }
+        }
+    ],
+    "user": [],
+    "cards": [],
+    "businessOwners": [],
+    "businessDirectors": [],
+    "country": [],
+    "accountDetails": []
+}

@@ -1,0 +1,7 @@
+export const CREDIT_CARD="Credit card"
+export const FAST_AND_EASY_TRANSFER="Fast and easy transfer"
+export const CHOOSE_BANK_TYPE="Choose your transfer type"
+export const LOW_COST_TRANSFER="Low cost transfer"
+export const ADVANCE_TRANSFER="Advanced transfer"
+export const SWIFT_TRANSFER="SWIFT Transfer"
+export const SWIFT_TRANSFER_DESCRIPTION="Send GBP from your bank account outside the UK"

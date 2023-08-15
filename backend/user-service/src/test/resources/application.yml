@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: USER-SERVICE
+  config:
+    import: "optional:configserver:http://localhost:9000"
+  datasource:
+    url: jdbc:h2:mem:seeder
+    username: sa
+    password: password
+    driverClassName: org.h2.Driver

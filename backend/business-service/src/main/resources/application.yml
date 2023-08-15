@@ -1,0 +1,19 @@
+server:
+    port: 9002
+
+spring:
+    application:
+        name: BUSINESS-SERVICE
+    datasource:
+        url: jdbc:mysql://18.232.137.219:3306/pocketpay_bcfinal5?allowPublicKeyRetrieval=true&useSSL=false&serverTimezone=UTC
+        username: root
+        password: Bootcamp@81!
+
+eureka:
+    client:
+        register-with-eureka: true
+        fetch-registry: true
+        service-url:
+            defaultZone: http://localhost:8761/eureka/
+        instance:
+            hostname: localhost
